@@ -1,0 +1,126 @@
+
+body{
+    background: url(imagen1.png)
+}
+nav{
+    background-color: deepskyblue;
+    color: white;
+    display: block;
+    margin-right: 200px;
+    
+}
+
+ul{
+    list-style-position: inside;
+}
+
+#landing{
+    
+  font-size: 30px;
+  padding: 0 80px;
+  margin-top: 5px;
+  margin-left: 50px ;
+  display: inline-block;
+  float: left;
+}
+#texto{
+    
+    border: solid 1px white;
+}
+ul li{
+    float: right;
+    list-style-type: none;
+    padding: 8px 16px;
+    display: inline-block; 
+
+}
+
+
+section #titulo1{
+    text-shadow: 5px 5px 7px rgba(175, 8, 8, 0.9);
+   font-family: fantasy;
+    color: white;
+    
+}
+p{
+    color: white;
+    font-family: cursive;
+    
+}
+section h2{
+    
+    font-size: 50px;
+    color: white;
+}
+section{
+    
+    color: white;
+    float: left;
+    width: 500px;
+    height: 500px;
+    box-sizing: border-box;
+    text-align: justify; 
+    margin-right: 200px;
+    margin-top: 280px;
+}
+section #verde{
+   
+    color: white;
+    background-color: black;
+    font-size: 15px;
+    margin-top: 30px;
+    width: 200px;
+    height: 50px;
+    border: none;
+    border-radius:30px;
+    cursor: pointer;
+   
+}
+
+#form{
+    background-color: white;
+    float: right;
+    width: 502px;
+    border-radius: 15px;
+    border: solid 2px white;
+    display: block;
+    box-sizing: border-box;  
+    height: 550px;
+    padding: 30px;  
+    margin-right: 250px;  
+    margin-top: 155px; 
+    box-shadow: 4px 4px 15px rgba(31, 13, 2, 0.9);
+
+    
+}
+
+#tituloform{
+    text-align: center;
+    color: slategrey;
+}
+.elemento input{
+    background-color: antiquewhite;
+    padding: 12px;
+    margin: 10px;
+    width: 400px;
+    border-radius: 10px;
+    font-size: 20px;
+    border: none;
+     
+}
+
+#botonform{
+    color: white;
+    background-color: darksalmon;
+    font-size: 20px;
+    width: 420px;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 50px;
+    border: none;
+    box-shadow: 5px 5px 10px rgba(31, 4, 4, 0.9);
+    cursor: pointer;
+    
+
+}
+
